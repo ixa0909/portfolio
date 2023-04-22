@@ -6,10 +6,10 @@
 
 - [目次](#目次)
 - [使用技術](#使用技術)
+- [製作物](#製作物)
 
 
 ## 使用技術
-
 
 <p style="text-align:center">
 <img src="./assets/img/skill.png" style="width:90%">
@@ -37,7 +37,7 @@
 ### OS
 
 - Mac
-- Linux
+- Ubuntu
 - Windows
 
 ### その他の言語
@@ -48,11 +48,31 @@
 - Java
 - TypeScript
 
-
 | 説明 | 言語 / 技術 |
 | ---- | ---- |
 |自学や講義で用いた程度 | Swift, Java, TypeScript|
 |詳しい人に教えてもらいながら, ある程度扱える | Docker |
-|主に調べながら、自分で扱える | Go, JavaScript, SQL |
-|ある程度は調べなくても, 自分で扱える | HTML / CSS, Github |
+|ある程度調べつつ, 自分で扱える | Go, JavaScript, SQL, HTML / CSS, Github |
 |言語を使いこなし, 最新技術やシステム側の実装も把握 | Python |
+
+## 製作物
+- [サポーターズ主催の定期ハッカソン](https://github.com/schezo817/localCuisine)
+
+- [JPHACKS2022 というハッカソン](https://github.com/jphacks/D_2212)
+
+- [Web スクレイピングについて独自にまとめたもの](https://github.com/ixa0909/webScrape)
+
+- [深層学習を用いたアプリ](https://github.com/ixa0909/predict-tcgcard-pricechange)
+製作途中 (諸事情によりコードは非公開)
+
+- [製作物に用いた技術を伝えたい！](https://github.com/ixa0909/technologyFigure)
+
+- [todo アプリ](https://github.com/ixa0909/tutorial)
+公開先 Web ページ → https://ixa0909.github.io/tutorial/
+この製作物については主に Web 上の記事を基に作成しています. 
+
+- [競輪結果予測](https://github.com/ixa0909/job_hunting)
+データの取得については主に Web 上の記事を基に作成しています. リポジトリの <code>README.md</code> に参考文献を記載しています. 
+
+- [構想段階](https://github.com/ixa0909/collatz)
+構想段階のものです. TypeScript のアウトプットを目的としています. 
