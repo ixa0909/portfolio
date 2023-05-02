@@ -56,9 +56,12 @@
 |言語を使いこなし, 最新技術やシステム側の実装も把握 | Python |
 
 ## 製作物
+
 - [サポーターズ主催の定期ハッカソン](https://github.com/schezo817/localCuisine)
 
 - [JPHACKS2022 というハッカソン](https://github.com/jphacks/D_2212)
+
+- [Slackの履歴管理ツール](https://github.com/ixa0909/manage-slack-history)
 
 - [Web スクレイピングについて独自にまとめたもの](https://github.com/ixa0909/webScrape)
 
