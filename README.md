@@ -58,8 +58,11 @@
 ## 製作物
 
 - [JPHACKS2022 というハッカソン](https://github.com/jphacks/D_2212)
+参加後にコード整形やコメントアウトを別で加えたリポジトリ
+→ [mirror](https://github.com/ixa0909/jphacks2022)
 
 - [Slackの履歴管理ツール](https://github.com/ixa0909/manage-slack-history)
+(閲覧用であり, 別リポジトリで開発中)
 
 - [Web スクレイピングについて独自にまとめたもの](https://github.com/ixa0909/webScrape)
 
