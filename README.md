@@ -59,9 +59,11 @@
 
 - [JPHACKS2022 というハッカソン](https://github.com/jphacks/D_2212)
 参加後にコード整形やコメントアウトを別で加えたリポジトリ
+
 → [mirror](https://github.com/ixa0909/jphacks2022)
 
 - [Slackの履歴管理ツール](https://github.com/ixa0909/manage-slack-history)
+
 (閲覧用であり, 別リポジトリで開発中)
 
 - [Web スクレイピングについて独自にまとめたもの](https://github.com/ixa0909/webScrape)
@@ -71,14 +73,18 @@
 - [サポーターズ主催の定期ハッカソン](https://github.com/schezo817/localCuisine)
 
 - [todo アプリ](https://github.com/ixa0909/tutorial)
+
 公開先 Web ページ → https://ixa0909.github.io/tutorial/
 この製作物については主に Web 上の記事を基に作成しています. 
 
 - [深層学習を用いたアプリ](https://github.com/ixa0909/predict-tcgcard-pricechange)
+
 製作途中 (諸事情によりコードは非公開)
 
 - [競輪結果予測](https://github.com/ixa0909/job_hunting)
+
 データの取得については主に Web 上の記事を基に作成しています. リポジトリの <code>README.md</code> に参考文献を記載しています. 
 
 - [構想段階](https://github.com/ixa0909/collatz)
+
 構想段階のものです. TypeScript のアウトプットを目的としています. 
