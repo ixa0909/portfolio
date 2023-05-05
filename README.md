@@ -57,22 +57,22 @@
 
 ## 製作物
 
-- [サポーターズ主催の定期ハッカソン](https://github.com/schezo817/localCuisine)
-
 - [JPHACKS2022 というハッカソン](https://github.com/jphacks/D_2212)
 
 - [Slackの履歴管理ツール](https://github.com/ixa0909/manage-slack-history)
 
 - [Web スクレイピングについて独自にまとめたもの](https://github.com/ixa0909/webScrape)
 
-- [深層学習を用いたアプリ](https://github.com/ixa0909/predict-tcgcard-pricechange)
-製作途中 (諸事情によりコードは非公開)
-
 - [製作物に用いた技術を伝えたい！](https://github.com/ixa0909/technologyFigure)
+
+- [サポーターズ主催の定期ハッカソン](https://github.com/schezo817/localCuisine)
 
 - [todo アプリ](https://github.com/ixa0909/tutorial)
 公開先 Web ページ → https://ixa0909.github.io/tutorial/
 この製作物については主に Web 上の記事を基に作成しています. 
+
+- [深層学習を用いたアプリ](https://github.com/ixa0909/predict-tcgcard-pricechange)
+製作途中 (諸事情によりコードは非公開)
 
 - [競輪結果予測](https://github.com/ixa0909/job_hunting)
 データの取得については主に Web 上の記事を基に作成しています. リポジトリの <code>README.md</code> に参考文献を記載しています. 
