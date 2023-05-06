@@ -77,13 +77,21 @@
 - [todo アプリ](https://github.com/ixa0909/tutorial)
 
 公開先 Web ページ → https://ixa0909.github.io/tutorial/
-この製作物については主に Web 上の記事を基に作成しています. 
+この製作物の基本部分は主に Web 上の記事を基に作成しています. 
 
+オリジナルで,
 
+- React の <code>webpack.config.js</code>
+- ページ更新してもデータを保持
+- デザイン
+
+を加えています.
 
 - [競輪結果予測](https://github.com/ixa0909/job_hunting)
 
-データの取得については主に Web 上の記事を基に作成しています. リポジトリの <code>README.md</code> に参考文献を記載しています.
+データの取得については主に Web 上の記事を基に作成しています.
+
+リポジトリの <code>README.md</code> に参考文献を記載しています.
 
 - [構想段階: 深層学習を用いたアプリ](https://github.com/ixa0909/predict-tcgcard-pricechange)
 
