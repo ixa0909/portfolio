@@ -50,8 +50,8 @@
 
 | 説明 | 言語 / 技術 |
 | ---- | ---- |
-|自学や講義で用いた程度 | Swift, Java, TypeScript|
-|詳しい人に教えてもらいながら, ある程度扱える | Docker |
+|自学や講義で用いた程度 | Java, TypeScript|
+|詳しい人に教えてもらいながら, ある程度扱える | Docker, Swift |
 |ある程度調べつつ, 自分で扱える | Go, JavaScript, SQL, HTML / CSS, Github |
 |言語を使いこなし, 最新技術やシステム側の実装も把握 | Python |
 
