@@ -22,7 +22,7 @@
 
 ### フロントエンド言語
 
-- JavaScripy (React, Node)
+- JavaScript (React, Next)
 
 ### 関係データベース管理
 
@@ -40,20 +40,19 @@
 - Ubuntu
 - Windows
 
-### その他の言語
+### その他の言語やツール
 
 - C++ (Atcoder)
 - Swift
 - HTML / CSS
 - Java
-- TypeScript
+- Node.js
 
 | 説明 | 言語 / 技術 |
 | ---- | ---- |
-|自学や講義で用いた程度 | Swift, Java, TypeScript|
-|詳しい人に教えてもらいながら, ある程度扱える | Docker |
-|ある程度調べつつ, 自分で扱える | Go, JavaScript, SQL, HTML / CSS, Github |
-|言語を使いこなし, 最新技術やシステム側の実装も把握 | Python |
+|自学や講義で用いた程度 | Swift, Java|
+|ある程度調べつつ, 自分で扱える | Docker, Go, JavaScript, SQL, HTML / CSS, Github |
+|研究や独学である程度使い慣れている | Python |
 
 ## 製作物
 
@@ -70,21 +69,10 @@
 - [Web スクレイピングについて独自にまとめたもの](https://github.com/ixa0909/webScrape)
 研究室で個人的に共有したもの
 
-- [製作物に用いた技術を伝えたい！](https://github.com/ixa0909/technologyFigure)
+- [製作物に用いた技術の概要図作成ツール](https://github.com/ixa0909/technologyFigure)
 
-- [サポーターズ主催の定期ハッカソン](https://github.com/schezo817/localCuisine)
+- [株式会社サポーターズ主催の定期ハッカソン](https://github.com/schezo817/localCuisine)
 
 - [todo アプリ](https://github.com/ixa0909/tutorial)
 
 - [競輪結果予測](https://github.com/ixa0909/job_hunting)
-
-- [構想段階: 深層学習を用いたアプリ](https://github.com/ixa0909/predict-tcgcard-pricechange)
-
-- [構想段階](https://github.com/ixa0909/collatz)
-
-構想段階のものです. TypeScript のアウトプットを目的としています.
-
-## 資格
-
-- 情報処理技術者試験合格
-- TOEIC Listening&Reading 855点取得
